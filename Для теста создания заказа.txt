@@ -1,0 +1,9 @@
+{
+  "clientId": "6cc22a4d-026a-480b-bec2-81ab48e192f6",
+  "orderItems": [
+    {
+      "productId": "1c0d2798-5167-4a65-bd73-c82947264252",
+      "quantity": 1
+    }
+  ]
+}
